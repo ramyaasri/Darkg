@@ -9,7 +9,7 @@ public class Modified {
 		System.out.println("This is master");
 
 		
-		System.out.println("Created new  Branch other");
+		
 		
 
 	}
